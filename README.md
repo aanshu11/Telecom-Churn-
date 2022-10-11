@@ -21,6 +21,9 @@ The main goal of the case study is to build ML models to predict churn. The pred
 * Feature Engineering and Variable Transformation 
 * Model Selection,Model Building and Prediction 
 
+## Data Description 
+Dataset Link - [Dataset](https://www.kaggle.com/competitions/ml-lab-i-c33/data).
+
 
 ## Libraries Used 
 * Numpy
